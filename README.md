@@ -14,5 +14,6 @@
 npm install
 npx playwright install
 npx playwright test
+```
 
 ![Скриншот успешного прохождения тестов](./image1.png)
